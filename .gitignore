@@ -106,4 +106,7 @@ dist
 #customize
 .vscode/
 .history/
+.userdate/
+config.json
+gzip.dll
 zpush.sh
