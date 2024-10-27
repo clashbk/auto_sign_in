@@ -15,3 +15,5 @@
 ### 查毒地址：
 
 https://habo.qq.com/file/showdetail?pk=ADYGYV1tB2AIO1s6U2oHZg%3D%3D#reg
+
+易语言编写，部分杀软报毒。介意请勿下载！
