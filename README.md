@@ -6,7 +6,7 @@
 
 ### 软件截图：
 
-<img src="./assets/image-20241027102338589.png" alt="image-20241027102338589" style="zoom:67%;" />
+![image-20241027102338589](https://github.com/clashbk/auto_sign_in/raw/main/assets/main.png)
 
 ### 功能介绍：
 
