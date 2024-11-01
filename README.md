@@ -6,13 +6,13 @@
 
 ### 软件截图：
 
-![image-20241027102338589](https://github.com/clashbk/auto_sign_in/raw/main/assets/main.png)
+![](https://github.com/clashbk/auto_sign_in/raw/main/assets/main.png)
 
 ### 功能介绍：
 
-自动化签到、一键回帖（为了防止扰乱相关网站，去掉自动回帖功能），再也不愁积分不够了，薅羊毛利器。
+自动化签到，再也不愁积分不够了，薅羊毛利器。
 
-已完成自动化签到的网站：精益论坛、吾爱破解、v2ex，
+已完成自动化签到的网站：精益论坛、v2ex、经管之家、bilibili、稀土掘金
 
 其他网站陆续添加中。
 
