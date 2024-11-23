@@ -2,7 +2,7 @@
 
 
 
-<font color=red size=5> 此项目已升级为可自定义规则，最新项目地址：https://github.com/clashbk/ChromeAutoBot</font>
+###  此项目已升级为可自定义规则，最新项目地址：https://github.com/clashbk/ChromeAutoBot
 
 
 
