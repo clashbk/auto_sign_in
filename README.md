@@ -1,5 +1,11 @@
 ## 自动签到机
 
+
+
+<font color=red size=5> 此项目已升级为可自定义规则，最新项目地址：https://github.com/clashbk/ChromeAutoBot</font>
+
+
+
 ### 使用教程
 
 先点击登录，登录你的账户。然后勾选需要自动化的项目。
